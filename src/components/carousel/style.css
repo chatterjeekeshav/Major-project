@@ -1,0 +1,28 @@
+
+  
+.tag {
+    text-align: center;
+}
+.slick-slide img {
+    margin: auto;
+    width: 30%;
+    height: 5%;
+    
+} 
+.imgslider{
+    height: 5%;
+    
+    
+}
+.clr{
+    /* background-color: rgb(237, 155, 155); */
+}
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+}
+.carousel {
+    width:640px;
+    height:450px;
+    background-color:rgb(161, 194, 229);
+  } 
